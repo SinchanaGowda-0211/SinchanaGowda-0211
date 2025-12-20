@@ -2,7 +2,7 @@
 👋 Hi there! I'm Sinchana H M <br>
 
 I’m an engineering student currently exploring the world of DevOps, cloud computing, and automation.<br>  
-I love learning cutting-edge technologies and improving my problem-solving & coding skills through real projects.
+I love learning cutting-edge technologies and improving my problem-solving & coding skills through real world projects.
 
 
 ## 🌐 Socials:

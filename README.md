@@ -12,7 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=SinchanaGowda-0211&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SinchanaGowda-0211&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=SinchanaGowda-0211&icon=10&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

@@ -1,5 +1,12 @@
 #  About Me:
-👋 Hi there! I'm Sinchana H M<br><br>I’m an engineering student currently exploring the world of DevOps, cloud computing, and automation.<br><br>I love learning cutting-edge technologies and improving my problem-solving & coding skills through real world projects.
+👋 Hi there! I'm **Sinchana H M**, an Electronics & Communication
+Engineering undergraduate passionate about **VLSI, RTL Design, Digital
+Hardware, and Semiconductor Engineering**.
+
+I'm currently building a strong foundation in **Digital Logic Design
+and Verilog HDL**, with a focus on understanding how digital systems
+are designed and implemented at the RTL level.
+
 
 
 ## 🌐 Socials:
